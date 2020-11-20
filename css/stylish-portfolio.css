@@ -187,10 +187,11 @@ hr.small {
 	font-family: 'Comfortaa', cursive;
 }
 
+
 #labs{
     	font-family: 'Comfortaa', cursive;
     margin-left: 100px;
-    margin-right: 100px
+    margin-right: 100px;
 
 }
 .details {
@@ -241,6 +242,7 @@ hr.small {
     color: #000;
     font-family: 'Comfortaa', cursive;
     background: url() no-repeat center center scroll;
+    background-color: black;
     -webkit-background-size: auto;
     -moz-background-size: auto;
     background-size: auto;

@@ -23,6 +23,7 @@ body {
 	color:#FFC20E/*#e24401*/;
 }
 
+
 .text-vertical-center {
     display: table-cell;
     text-align: center;
@@ -186,8 +187,12 @@ hr.small {
 	font-family: 'Comfortaa', cursive;
 }
 
-/* Services */
+#labs{
+    	font-family: 'Comfortaa', cursive;
+    margin-left: 100px;
+    margin-right: 100px
 
+}
 .details {
     padding: 20px 0;
 	font-family: 'Comfortaa', cursive;
@@ -253,6 +258,19 @@ hr.small {
 }
 
 .workspace {
+    display: table;
+    width: 100%;
+    height: 400px;
+    color: #fff;
+    font-family: 'Comfortaa', cursive;
+    background: url(../img/pitt_6.jpeg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.schedule {
     display: table;
     width: 100%;
     height: 400px;
